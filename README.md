@@ -1,7 +1,7 @@
-### Hi there 👋
-
+Hi there , I'm Miguel 👋
+=======================
 <!--
-**MiguelMottaVilca/MIGUELMOTTAVILCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MiguelMottaVilca/MiguelMottaVilca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### I'm a computer science student .
+
+###### Tools :
+  * VSCode
+  * Vim o Neovim
+  * Sublime Text
+  * Terminal 
+  * Github
+
+###### Operational systems : 
+  * Windows 
+  * MacOS
+  * Linux ( Ubuntu  , ArchLinux  , Parrot OS )
+
+Github
+======
+
+![MiguelMottaVila's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelMottaVilca&theme=blue-green&show_icons=true)
+![Languajes](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMottaVilca&langs_count=10&layout=compact&theme=blue-green&show_icons=true) 
