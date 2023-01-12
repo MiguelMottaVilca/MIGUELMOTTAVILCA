@@ -29,9 +29,3 @@ Here are some ideas to get you started:
   * Windows 
   * MacOS
   * Linux ( Ubuntu  , ArchLinux  , Parrot OS )
-
-Github
-======
-
-![MiguelMottaVila's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelMottaVilca&theme=blue-green&show_icons=true)
-![Languajes](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMottaVilca&langs_count=10&layout=compact&theme=blue-green&show_icons=true) 
