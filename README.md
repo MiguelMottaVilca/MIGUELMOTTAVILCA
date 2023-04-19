@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 ###### Operational systems : 
   * Windows 
   * MacOS
-  * Linux ( Ubuntu  , ArchLinux  , Parrot OS )
+  * Linux
