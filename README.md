@@ -26,6 +26,6 @@ Here are some ideas to get you started:
   * Github
 
 ###### Operational systems : 
-  * Windows 
+  * Windows
   * MacOS
   * Linux
